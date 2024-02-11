@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 je suis Corentin, Alternant en système réseau et cloud computing</h1>
-<h3 align="center">Je suis passionné par le développement web et le réseaux</h3>
+<h3 align="center">Je suis passionné par le réseaux et l'un des co-fondateur de Ultimate Closed Captions</h3>
 
 <p align="left"> <a href="https://twitter.com/corentin384" target="blank"><img src="https://img.shields.io/twitter/follow/corentin384?logo=twitter&style=for-the-badge" alt="corentin384" /></a> </p>
 
