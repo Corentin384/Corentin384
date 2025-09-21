@@ -1,6 +1,7 @@
-<h1 align="center">Hello 👋 je suis Corentin, Alternant en sécurité informatique</h1>
-# 💫 About Me:
-Cybersecurity apprentice<br>Ultimate Closed Captions co-founder<br>Tech enjoyer
+<h1 align="center">Hi 👋 I'm Corentin, A Cybersecurity apprentice</h1>
+
+Ultimate Closed Captions co-founder<br>
+Tech enjoyer
 
 
 ## 🌐 Socials:
